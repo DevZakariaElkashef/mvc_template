@@ -1,0 +1,139 @@
+[07-Mar-2023 12:14:37 Europe/Berlin] Uncaught exception: 'Exception' with message 'PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in C:\xampp\htdocs\Login_system\App\Models\Posts.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\App\Models\Posts.php(18): PDO->query('SELECT id, titl...')
+#1 C:\xampp\htdocs\Login_system\App\Controllers\Posts.php(13): App\Models\Posts::getAll()
+#2 [internal function]: App\Controllers\Posts->indexAction()
+#3 C:\xampp\htdocs\Login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#5 C:\xampp\htdocs\Login_system\Public\index.php(20): Core\Router->disPatch('posts/index')
+#6 {main}'
+Stack trace: #0 C:\xampp\htdocs\Login_system\App\Controllers\Posts.php(13): App\Models\Posts::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\Login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#4 C:\xampp\htdocs\Login_system\Public\index.php(20): Core\Router->disPatch('posts/index')
+#5 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\App\Models\Posts.php' on line 24
+[07-Mar-2023 12:14:47 Europe/Berlin] Uncaught exception: 'Exception' with message 'PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in C:\xampp\htdocs\Login_system\App\Models\Posts.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\App\Models\Posts.php(18): PDO->query('SELECT id, titl...')
+#1 C:\xampp\htdocs\Login_system\App\Controllers\Posts.php(13): App\Models\Posts::getAll()
+#2 [internal function]: App\Controllers\Posts->indexAction()
+#3 C:\xampp\htdocs\Login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#5 C:\xampp\htdocs\Login_system\Public\index.php(20): Core\Router->disPatch('posts/index')
+#6 {main}'
+Stack trace: #0 C:\xampp\htdocs\Login_system\App\Controllers\Posts.php(13): App\Models\Posts::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\Login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#4 C:\xampp\htdocs\Login_system\Public\index.php(20): Core\Router->disPatch('posts/index')
+#5 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\App\Models\Posts.php' on line 24
+[07-Mar-2023 12:15:16 Europe/Berlin] Uncaught exception: 'Exception' with message 'PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in C:\xampp\htdocs\Login_system\App\Models\Posts.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\App\Models\Posts.php(18): PDO->query('SELECT id, titl...')
+#1 C:\xampp\htdocs\Login_system\App\Controllers\Posts.php(13): App\Models\Posts::getAll()
+#2 [internal function]: App\Controllers\Posts->indexAction()
+#3 C:\xampp\htdocs\Login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#5 C:\xampp\htdocs\Login_system\Public\index.php(20): Core\Router->disPatch('posts/index')
+#6 {main}'
+Stack trace: #0 C:\xampp\htdocs\Login_system\App\Controllers\Posts.php(13): App\Models\Posts::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\Login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#4 C:\xampp\htdocs\Login_system\Public\index.php(20): Core\Router->disPatch('posts/index')
+#5 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\App\Models\Posts.php' on line 24-----------------------------------------------------------------------------------------------------------------------------------------
+[07-Mar-2023 12:15:54 Europe/Berlin] ------------------------------------------------------------------------------------------------------------------------------------------Uncaught exception: 'Exception' with message 'PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in C:\xampp\htdocs\Login_system\App\Models\Posts.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\App\Models\Posts.php(18): PDO->query('SELECT id, titl...')
+#1 C:\xampp\htdocs\Login_system\App\Controllers\Posts.php(13): App\Models\Posts::getAll()
+#2 [internal function]: App\Controllers\Posts->indexAction()
+#3 C:\xampp\htdocs\Login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#5 C:\xampp\htdocs\Login_system\Public\index.php(20): Core\Router->disPatch('posts/index')
+#6 {main}'
+Stack trace: #0 C:\xampp\htdocs\Login_system\App\Controllers\Posts.php(13): App\Models\Posts::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\Login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#4 C:\xampp\htdocs\Login_system\Public\index.php(20): Core\Router->disPatch('posts/index')
+#5 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\App\Models\Posts.php' on line 24-----------------------------------------------------------------------------------------------------------------------------------------
+[07-Mar-2023 12:16:17 Europe/Berlin] ------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in C:\xampp\htdocs\Login_system\App\Models\Posts.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\App\Models\Posts.php(18): PDO->query('SELECT id, titl...')
+#1 C:\xampp\htdocs\Login_system\App\Controllers\Posts.php(13): App\Models\Posts::getAll()
+#2 [internal function]: App\Controllers\Posts->indexAction()
+#3 C:\xampp\htdocs\Login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#5 C:\xampp\htdocs\Login_system\Public\index.php(20): Core\Router->disPatch('posts/index')
+#6 {main}'
+Stack trace: #0 C:\xampp\htdocs\Login_system\App\Controllers\Posts.php(13): App\Models\Posts::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\Login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#4 C:\xampp\htdocs\Login_system\Public\index.php(20): Core\Router->disPatch('posts/index')
+#5 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\App\Models\Posts.php' on line 24
+-----------------------------------------------------------------------------------------------------------------------------------------
+[07-Mar-2023 12:16:37 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in C:\xampp\htdocs\Login_system\App\Models\Posts.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\App\Models\Posts.php(18): PDO->query('SELECT id, titl...')
+#1 C:\xampp\htdocs\Login_system\App\Controllers\Posts.php(13): App\Models\Posts::getAll()
+#2 [internal function]: App\Controllers\Posts->indexAction()
+#3 C:\xampp\htdocs\Login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#5 C:\xampp\htdocs\Login_system\Public\index.php(20): Core\Router->disPatch('posts/index')
+#6 {main}'
+Stack trace: #0 C:\xampp\htdocs\Login_system\App\Controllers\Posts.php(13): App\Models\Posts::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\Login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#4 C:\xampp\htdocs\Login_system\Public\index.php(20): Core\Router->disPatch('posts/index')
+#5 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\App\Models\Posts.php' on line 24
+-----------------------------------------------------------------------------------------------------------------------------------------
+[07-Mar-2023 12:16:46 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in C:\xampp\htdocs\Login_system\App\Models\Posts.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\App\Models\Posts.php(18): PDO->query('SELECT id, titl...')
+#1 C:\xampp\htdocs\Login_system\App\Controllers\Posts.php(13): App\Models\Posts::getAll()
+#2 [internal function]: App\Controllers\Posts->indexAction()
+#3 C:\xampp\htdocs\Login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#5 C:\xampp\htdocs\Login_system\Public\index.php(20): Core\Router->disPatch('posts/index')
+#6 {main}'
+Stack trace: #0 C:\xampp\htdocs\Login_system\App\Controllers\Posts.php(13): App\Models\Posts::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\Login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#4 C:\xampp\htdocs\Login_system\Public\index.php(20): Core\Router->disPatch('posts/index')
+#5 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\App\Models\Posts.php' on line 24
+-----------------------------------------------------------------------------------------------------------------------------------------
+[07-Mar-2023 12:16:52 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'PDOException: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected in C:\xampp\htdocs\Login_system\App\Models\Posts.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\App\Models\Posts.php(18): PDO->query('SELECT id, titl...')
+#1 C:\xampp\htdocs\Login_system\App\Controllers\Posts.php(13): App\Models\Posts::getAll()
+#2 [internal function]: App\Controllers\Posts->indexAction()
+#3 C:\xampp\htdocs\Login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#5 C:\xampp\htdocs\Login_system\Public\index.php(20): Core\Router->disPatch('posts/index')
+#6 {main}'
+Stack trace: #0 C:\xampp\htdocs\Login_system\App\Controllers\Posts.php(13): App\Models\Posts::getAll()
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\Login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#4 C:\xampp\htdocs\Login_system\Public\index.php(20): Core\Router->disPatch('posts/index')
+#5 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\App\Models\Posts.php' on line 24
+-----------------------------------------------------------------------------------------------------------------------------------------
