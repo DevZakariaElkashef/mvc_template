@@ -10,7 +10,7 @@ class Config
 
     const DB_PASS = '';
 
-    const DB_NAME = 'mvc_template';
+    const DB_NAME = 'login_system';
 
     const SHOW_ERRORS = true;
 }

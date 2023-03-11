@@ -9,7 +9,7 @@ class Home extends Controller
 {
     public function indexAction()
     {
-        View::Render('Home.php');
+        View::templateRender('home.html');
     }
 
     public function before()

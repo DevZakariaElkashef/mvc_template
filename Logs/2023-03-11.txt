@@ -1,0 +1,143 @@
+[11-Mar-2023 19:55:29 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'file (../App/Views/Home.html) not found'
+Stack trace: #0 C:\xampp\htdocs\login_system\App\Controllers\Home.php(12): Core\View::Render('Home.html')
+#1 [internal function]: App\Controllers\Home->indexAction()
+#2 C:\xampp\htdocs\login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#4 C:\xampp\htdocs\login_system\Public\index.php(17): Core\Router->disPatch('')
+#5 {main}
+Thrown in 'C:\xampp\htdocs\login_system\Core\View.php' on line 17
+-----------------------------------------------------------------------------------------------------------------------------------------
+[11-Mar-2023 19:55:29 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\login_system\Public\index.php(17): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[11-Mar-2023 19:55:31 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'file (../App/Views/Home.html) not found'
+Stack trace: #0 C:\xampp\htdocs\login_system\App\Controllers\Home.php(12): Core\View::Render('Home.html')
+#1 [internal function]: App\Controllers\Home->indexAction()
+#2 C:\xampp\htdocs\login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#4 C:\xampp\htdocs\login_system\Public\index.php(17): Core\Router->disPatch('')
+#5 {main}
+Thrown in 'C:\xampp\htdocs\login_system\Core\View.php' on line 17
+-----------------------------------------------------------------------------------------------------------------------------------------
+[11-Mar-2023 19:55:31 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\login_system\Public\index.php(17): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[11-Mar-2023 19:55:31 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'file (../App/Views/Home.html) not found'
+Stack trace: #0 C:\xampp\htdocs\login_system\App\Controllers\Home.php(12): Core\View::Render('Home.html')
+#1 [internal function]: App\Controllers\Home->indexAction()
+#2 C:\xampp\htdocs\login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#4 C:\xampp\htdocs\login_system\Public\index.php(17): Core\Router->disPatch('')
+#5 {main}
+Thrown in 'C:\xampp\htdocs\login_system\Core\View.php' on line 17
+-----------------------------------------------------------------------------------------------------------------------------------------
+[11-Mar-2023 19:55:31 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'file (../App/Views/Home.html) not found'
+Stack trace: #0 C:\xampp\htdocs\login_system\App\Controllers\Home.php(12): Core\View::Render('Home.html')
+#1 [internal function]: App\Controllers\Home->indexAction()
+#2 C:\xampp\htdocs\login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#4 C:\xampp\htdocs\login_system\Public\index.php(17): Core\Router->disPatch('')
+#5 {main}
+Thrown in 'C:\xampp\htdocs\login_system\Core\View.php' on line 17
+-----------------------------------------------------------------------------------------------------------------------------------------
+[11-Mar-2023 19:55:31 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'file (../App/Views/Home.html) not found'
+Stack trace: #0 C:\xampp\htdocs\login_system\App\Controllers\Home.php(12): Core\View::Render('Home.html')
+#1 [internal function]: App\Controllers\Home->indexAction()
+#2 C:\xampp\htdocs\login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#4 C:\xampp\htdocs\login_system\Public\index.php(17): Core\Router->disPatch('')
+#5 {main}
+Thrown in 'C:\xampp\htdocs\login_system\Core\View.php' on line 17
+-----------------------------------------------------------------------------------------------------------------------------------------
+[11-Mar-2023 19:55:32 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'file (../App/Views/Home.html) not found'
+Stack trace: #0 C:\xampp\htdocs\login_system\App\Controllers\Home.php(12): Core\View::Render('Home.html')
+#1 [internal function]: App\Controllers\Home->indexAction()
+#2 C:\xampp\htdocs\login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#4 C:\xampp\htdocs\login_system\Public\index.php(17): Core\Router->disPatch('')
+#5 {main}
+Thrown in 'C:\xampp\htdocs\login_system\Core\View.php' on line 17
+-----------------------------------------------------------------------------------------------------------------------------------------
+[11-Mar-2023 19:55:32 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\login_system\Public\index.php(17): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[11-Mar-2023 19:58:07 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'ErrorException' with message 'realpath(): Passing null to parameter #1 ($path) of type string is deprecated'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(8192, 'realpath(): Pas...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(40): realpath(NULL)
+#2 C:\xampp\htdocs\login_system\Core\View.php(30): Twig\Loader\FilesystemLoader->__construct('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\login_system\App\Controllers\Home.php(12): Core\View::templateRender('home.html')
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 C:\xampp\htdocs\login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#7 C:\xampp\htdocs\login_system\Public\index.php(17): Core\Router->disPatch('')
+#8 {main}
+Thrown in 'C:\xampp\htdocs\login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php' on line 40
+-----------------------------------------------------------------------------------------------------------------------------------------
+[11-Mar-2023 19:58:07 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\login_system\Public\index.php(17): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[11-Mar-2023 19:58:08 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'ErrorException' with message 'realpath(): Passing null to parameter #1 ($path) of type string is deprecated'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(8192, 'realpath(): Pas...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(40): realpath(NULL)
+#2 C:\xampp\htdocs\login_system\Core\View.php(30): Twig\Loader\FilesystemLoader->__construct('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\login_system\App\Controllers\Home.php(12): Core\View::templateRender('home.html')
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 C:\xampp\htdocs\login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#7 C:\xampp\htdocs\login_system\Public\index.php(17): Core\Router->disPatch('')
+#8 {main}
+Thrown in 'C:\xampp\htdocs\login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php' on line 40
+-----------------------------------------------------------------------------------------------------------------------------------------
+[11-Mar-2023 19:58:08 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'ErrorException' with message 'realpath(): Passing null to parameter #1 ($path) of type string is deprecated'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(8192, 'realpath(): Pas...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(40): realpath(NULL)
+#2 C:\xampp\htdocs\login_system\Core\View.php(30): Twig\Loader\FilesystemLoader->__construct('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\login_system\App\Controllers\Home.php(12): Core\View::templateRender('home.html')
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 C:\xampp\htdocs\login_system\Core\Controller.php(21): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\login_system\Core\Router.php(54): Core\Controller->__call('Index', Array)
+#7 C:\xampp\htdocs\login_system\Public\index.php(17): Core\Router->disPatch('')
+#8 {main}
+Thrown in 'C:\xampp\htdocs\login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php' on line 40
+-----------------------------------------------------------------------------------------------------------------------------------------
+[11-Mar-2023 19:58:08 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\login_system\Public\index.php(17): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
